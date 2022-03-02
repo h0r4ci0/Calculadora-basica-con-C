@@ -24,16 +24,19 @@ int main (){
   //Resta
   if(operacion == 2){
   resultado == a-b;
+    
   cout<<endl<<"El resultado de tu resta es: "<< resultado <<endl<<endl;
 }
-
+  //Multiplicación
   if (operacion == 3){
   resultado = a*b;
+    
   cout<<endl<<"El resultado de tu multiplicación es: "<< resultado<<endl<<endl;
 }
-
+  //División
   if (operacion == 4) {
   resultado = a/b;
+    
   cout<<endl<<"El resultado de tu división es: "<< resultado << endl;
 
 }
